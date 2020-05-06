@@ -1,0 +1,5 @@
+EKO RESOLUSI
+- Learn PHP
+- Learn MVC
+- Learn Laravel
+- Learn Codeigniter
