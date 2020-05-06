@@ -3,3 +3,4 @@ EKO RESOLUSI
 - Learn MVC
 - Learn Laravel
 - Learn Codeigniter
+- Learn web development
